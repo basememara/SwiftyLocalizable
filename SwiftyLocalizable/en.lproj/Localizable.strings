@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  SwiftyLocalizable
+
+  Created by Basem Emara on 7/9/17.
+  Copyright © 2017 Zamzam Inc. All rights reserved.
+*/
+
+/* Center display of app name and current version */
+"current.app.name.version" = "Current version is %@ (%@)";
+
+/* Fourth corner of main screen translating number 4 */
+"four.corner.label.4" = "Four is %d";
+
+/* First corner of main screen translating number 1 */
+"one.corner.label.1" = "One is %d";
+
+/* Third corner of main screen translating number 3 */
+"three.corner.label.3" = "Three is %d";
+
+/* OK button of main tutorial dialog */
+"tutorial.alert.accept" = "Got it, let's go!";
+
+/* Message of main tutorial dialog */
+"tutorial.alert.message" = "Your feedback is appreciated.";
+
+/* Title of main tutorial dialog */
+"tutorial.alert.title" = "Welcome to the Tutorial";
+
+/* Second corner of main screen translating number 2 */
+"two.corner.label.2" = "Two is %d";
+
